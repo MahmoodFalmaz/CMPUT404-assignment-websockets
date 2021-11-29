@@ -3,6 +3,8 @@ CMPUT404-assignment-websockets
 
 CMPUT404-assignment-websockets
 
+Name: Mahmood Falmaz
+
 See requirements.org (plain-text) for a description of the project.
 
 Make a shared state Websockets drawing program
@@ -59,3 +61,13 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+Collaborators
+========================
+None 
+
+References
+========================
+1. https://github.com/abramhindle/WebSocketsExamples/blob/master/broadcaster.py
+2. https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py 
+3. https://github.com/MahmoodFalmaz/CMPUT404-assignment-ajax
